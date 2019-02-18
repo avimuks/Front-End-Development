@@ -1,3 +1,3 @@
-# HTML
+## HTML
 HTML - MEET AVI PAGE
-</P> I am creating this reposotory to put together my playtime work using HTML.
+</P> I am creating this reposotory to put together my playtime work using HTML. Used VSCode as Text Editor. 
